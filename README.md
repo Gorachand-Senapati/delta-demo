@@ -1,2 +1,3 @@
 # delta-demo
-This is a demo for sigma class
+This is a demo for git and github .
+i made this ,Gora's repo .
